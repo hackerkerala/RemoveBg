@@ -7,11 +7,9 @@
     "env":{
         "BOT_TOKEN":{
             "description":"Your Bot Token from @Botfather",
-            "required":"False"
         },
         "API_KEY":{
             "description":"Your Api key from https://ocr.space/ocrapi",
-            "required":"False"
         },
         "GROUP":{
             "description":"Your Group Username without '@'",
@@ -19,7 +17,6 @@
         },
         "CHANNEL":{
             "description":"Your Channel Username without '@'",
-            "required":"False"
         }
     }
 
